@@ -23,7 +23,7 @@ def generate_test_wallet():
 
 # ==================== CONFIGURATION ====================
 # CHANGE THIS TO DEVICE 1's IP ADDRESS
-DEVICE_1_IP = "192.168.1.100"  # ← PUT YOUR DEVICE 1 IP HERE
+DEVICE_1_IP = "192.168.1.20"  # ← PUT YOUR DEVICE 1 IP HERE
 DEVICE_1_WS_PORT = 8080
 
 class Device2Miner:
